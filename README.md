@@ -1,2 +1,2 @@
-# bikesharing
-Visualizing bike sharing data using Tableau.
+# Bikesharing
+##### Visualizing bike sharing data using Tableau.
