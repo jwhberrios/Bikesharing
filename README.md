@@ -20,6 +20,7 @@ f. Top Starting Locations (figure. 6)
 
 g. Top Ending Locations (figure. 7)
 
+#### Data Visuals
 
 [Bike Users By Trip Length](Resources/Checkout_user.png)
 ###### Figure. 1
