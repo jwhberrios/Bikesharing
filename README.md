@@ -7,11 +7,17 @@ The purpose of this project is to analyze Citibike data use in New York City to 
 In order to understand the pattern of Citibike use in New York City, the following tables were generated to visually analyze the data provided by [Citibike NYC](https://ride.citibikenyc.com/system-data):
 
 a. Bike Users By Trip Length (figure. 1)
+
 b. Bike Use By Trip Length & Gender (figure. 2)
+
 c. Weekday Use By Hour (figure. 3)
+
 d. Weekday Use By Hour & Gender (figure. 4)
+
 e. User Type By Gender & Weekday (figure. 5)
+
 f. Top Starting Locations (figure. 6)
+
 g. Top Ending Locations (figure. 7)
 
 
