@@ -38,34 +38,73 @@ In order to understand the pattern of Citibike use in New York City, the followi
 
 ![Bike Use By Trip Length & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_gender.png?raw=true)
 ###### Bike Use By Trip Length & Gender (Figure. 2)
-Just under 110,000 riders are self reported male. Followed by about 35,000 riders are self reported female. The remaining approximate 8,000 riders did not identify their gender.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Just under 110,000 riders are self reported male. Followed by about 35,000 riders are self reported female. The remaining approximate 8,000 riders did not identify their gender.
+
+</p>
+</details>
 
 
 ![Weekday Use By Hour](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_per_hour_weekday.png?raw=true)
 ###### Weekday Use By Hour (Figure. 3)
-During the weekday, between 7-9am (morning rush hour) and 5-7pm (evening rush hour) is when bike use is at its highest.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### During the weekday, between 7-9am (morning rush hour) and 5-7pm (evening rush hour) is when bike use is at its highest.
 Out of the weekdays, Thursday has the highest bike use in those respective time slots.
+
+</p>
+</details>
 
 
 ![Weekday Use By Hour & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender.png?raw=true)
 ###### Weekday Use By Hour & Gender (Figure. 4)
-In the previous reported bike use, it is evident that males are the primary riders compard to females and the unknown group.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### In the previous reported bike use, it is evident that males are the primary riders compard to females and the unknown group.
+  
+</p>
+</details>
+
 
 
 ![User Type by Gender & Weekday](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender_weekday.png?raw=true)
 ###### User Type By Gender & Weekday (Figure. 5)
-Majority of the riders throughout the week are males with a subscription, followed by female riders who are subscribers, and unknown riders are the least.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Majority of the riders throughout the week are males with a subscription, followed by female riders who are subscribers, and unknown riders are the least.
 There are more subscribed riders than one time use riders using Citibikes across all gender groups.
+  
+</p>
+</details>
+
 
 
 ![Top Starting Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_starting_locations.png?raw=true)
 ###### Top Starting Locations (Figure. 6)
-Midtown and West Side are popular tourist spots to start ride.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Midtown and West Side are popular tourist spots to start ride.
+  
+</p>
+</details>
+
 
 
 ![Top Ending Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_ending_locations.png?raw=true)
 ###### Top Ending Locations (Figure. 7)
-Rides conclude in the same location as starting points.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Rides conclude in the same location as starting points.
+  
+</p>
+</details>
 
 
 ### Summary
