@@ -75,8 +75,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 <details><summary>CLICK ME</summary>
 <p>
 
-#### Majority of the riders throughout the week are males with a subscription, followed by female riders who are subscribers, and unknown riders are the least.
-There are more subscribed riders than one time use riders using Citibikes across all gender groups.
+#### Majority of the riders throughout the week are males with a subscription, followed by female riders who are subscribers, and unknown riders are the least. There are more subscribed riders than one time use riders using Citibikes across all gender groups.
   
 </p>
 </details>
