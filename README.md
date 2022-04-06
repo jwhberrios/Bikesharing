@@ -20,7 +20,8 @@ In order to understand the pattern of Citibike use in New York City, the followi
 
 * Top Ending Locations (figure. 7)
 
-#### Data Visuals
+
+### Data Visuals
 ![Bike Users By Trip Length](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_User.png?raw=true)
 ###### Bike Users By Trip Length (Figure. 1)
 Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour. Few riders are using the bike for longer than 1 hour. 
