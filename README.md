@@ -106,3 +106,4 @@ In order to understand the pattern of Citibike use in New York City, the followi
 
 
 ### Summary
+In summary, morning (7am-9am) rush hour and evening (5-7pm) rush hour appears to be the time when CitiBikes are used the most. Majority of the riders are male and hold a subscription.
