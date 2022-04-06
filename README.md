@@ -6,25 +6,27 @@ The purpose of this project is to analyze Citibike data use in New York City to 
 ### Results
 In order to understand the pattern of Citibike use in New York City, the following tables were generated to visually analyze the data provided by [Citibike NYC](https://ride.citibikenyc.com/system-data):
 
-a. Bike Users By Trip Length (figure. 1)
+* Bike Users By Trip Length (figure. 1)
 
-b. Bike Use By Trip Length & Gender (figure. 2)
+* Bike Use By Trip Length & Gender (figure. 2)
 
-c. Weekday Use By Hour (figure. 3)
+* Weekday Use By Hour (figure. 3)
 
-d. Weekday Use By Hour & Gender (figure. 4)
+* Weekday Use By Hour & Gender (figure. 4)
 
-e. User Type By Gender & Weekday (figure. 5)
+* User Type By Gender & Weekday (figure. 5)
 
-f. Top Starting Locations (figure. 6)
+* Top Starting Locations (figure. 6)
 
-g. Top Ending Locations (figure. 7)
+* Top Ending Locations (figure. 7)
 
 #### Data Visuals
 
 ![Bike Users By Trip Length](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_User.png?raw=true)
 ###### Bike Users By Trip Length (Figure. 1)
 Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour. Few riders are using the bike for longer than 1 hour. 
+
+
 
 ![Bike Use By Trip Length & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_gender.png?raw=true)
 ###### Bike Use By Trip Length & Gender (Figure. 2)
