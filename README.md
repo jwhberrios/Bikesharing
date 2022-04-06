@@ -40,3 +40,13 @@ Just under 110,000 riders are self reported male. Followed by about 35,000 rider
 
 ![User Type by Gender & Weekday](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender_weekday.png?raw=true)
 ###### User Type By Gender & Weekday (Figure. 5)
+
+
+![Top Starting Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_starting_locations.png?raw=true)
+###### Top Starting Locations (Figure. 6)
+
+![Top Ending Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_ending_locations.png?raw=true)
+###### Top Ending Locations (Figure. 7)
+
+
+### Summary
