@@ -29,11 +29,8 @@ In order to understand the pattern of Citibike use in New York City, the followi
 <details><summary>CLICK ME</summary>
 <p>
 
-#### Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour.
+#### Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour. Few riders are using the bike for longer than 1 hour.
 
-    ```ruby
-     Few riders are using the bike for longer than 1 hour.
-    ```
 </p>
 </details>
   
