@@ -21,7 +21,6 @@ In order to understand the pattern of Citibike use in New York City, the followi
 * Top Ending Locations (figure. 7)
 
 #### Data Visuals
-
 ![Bike Users By Trip Length](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_User.png?raw=true)
 ###### Bike Users By Trip Length (Figure. 1)
 Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour. Few riders are using the bike for longer than 1 hour. 
@@ -32,23 +31,32 @@ Within the first hour of the ride, most rides (just under 150,000) are under 20 
 ###### Bike Use By Trip Length & Gender (Figure. 2)
 Just under 110,000 riders are self reported male. Followed by about 35,000 riders are self reported female. The remaining approximate 8,000 riders did not identify their gender.
 
+
 ![Weekday Use By Hour](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_per_hour_weekday.png?raw=true)
 ###### Weekday Use By Hour (Figure. 3)
+During the weekday, between 7-9am (morning rush hour) and 5-7pm (evening rush hour) is when bike use is at its highest.
+Out of the weekdays, Thursday has the highest bike use in those respective time slots.
 
 
 ![Weekday Use By Hour & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender.png?raw=true)
 ###### Weekday Use By Hour & Gender (Figure. 4)
+In the previous reported bike use, it is evident that males are the primary riders compard to females and the unknown group.
 
 
 ![User Type by Gender & Weekday](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender_weekday.png?raw=true)
 ###### User Type By Gender & Weekday (Figure. 5)
+Majority of the riders throughout the week are males with a subscription, followed by female riders who are subscribers, and unknown riders are the least.
+There are more subscribed riders than one time use riders using Citibikes across all gender groups.
 
 
 ![Top Starting Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_starting_locations.png?raw=true)
 ###### Top Starting Locations (Figure. 6)
+Midtown and West Side are popular tourist spots to start ride.
+
 
 ![Top Ending Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_ending_locations.png?raw=true)
 ###### Top Ending Locations (Figure. 7)
+Rides conclude in the same location as starting points.
 
 
 ### Summary
