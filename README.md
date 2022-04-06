@@ -52,8 +52,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 <details><summary>CLICK ME</summary>
 <p>
 
-#### During the weekday, between 7-9am (morning rush hour) and 5-7pm (evening rush hour) is when bike use is at its highest.
-Out of the weekdays, Thursday has the highest bike use in those respective time slots.
+#### During the weekday, between 7-9am (morning rush hour) and 5-7pm (evening rush hour) is when bike use is at its highest. Out of the weekdays, Thursday has the highest bike use in those respective time slots.
 
 </p>
 </details>
