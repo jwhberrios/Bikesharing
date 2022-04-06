@@ -26,19 +26,17 @@ g. Top Ending Locations (figure. 7)
 ###### Bike Users By Trip Length (Figure. 1)
 Within the first hour of the ride, most rides (just under 150,000) are under 20 minutes long. The use of bikes dramatically decreases as the duration of the ride extends towards 1 hour. Few riders are using the bike for longer than 1 hour. 
 
-![Bike Use By Trip Length & Gender](Resources/Checkout_gender.png)
+![Bike Use By Trip Length & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_gender.png?raw=true)
 ###### Bike Use By Trip Length & Gender (Figure. 2)
 Just under 110,000 riders are self reported male. Followed by about 35,000 riders are self reported female. The remaining approximate 8,000 riders did not identify their gender.
 
-![Weekday Use By Hour](Resources/Checkout_gender.png)
+![Weekday Use By Hour](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_per_hour_weekday.png?raw=true)
 ###### Weekday Use By Hour (Figure. 3)
 
 
-![Weekday Use By Hour & Gender](Resources/Checkout_gender.png)
+![Weekday Use By Hour & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender.png?raw=true)
 ###### Weekday Use By Hour & Gender (Figure. 4)
 
 
-![User Type by Gender & Weekday](Resources/Checkout_gender.png)
+![User Type by Gender & Weekday](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender_weekday.png?raw=true)
 ###### User Type By Gender & Weekday (Figure. 5)
-
-### Summary
