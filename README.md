@@ -106,4 +106,8 @@ In order to understand the pattern of Citibike use in New York City, the followi
 
 
 ### Summary
-In summary, morning (7am-9am) rush hour and evening (5-7pm) rush hour appears to be the time when CitiBikes are used the most. Majority of the riders are male and hold a subscription.
+In summary, morning (7am-9am) rush hour and evening (5-7pm) rush hour appears to be the time when CitiBikes are used the most. Majority of the riders are male and hold a subscription. The rides are generally within an hour long and the trip ends within the same area as its origin (midtown and west side of Manhattan). This is indicative that the bikes are used to commute to short distance destinations in areas that not only have alot of tourist attractions, but office buildings where commuters using the bikes potentially work at. These are important ridership factors and traits to consider when launching a similar bike share program in Des Moine, Iowa. Particularly if the tourist population is considerably less compared to New York City and the target population are commuters.
+
+Additional analysis to consider in order to get a better idea on ridership characteristics are:
+* User type and trip duration - to get a better idea what kind of trips subscribers take compared to one time use customers.
+* End Station Names with Top Ending Locations - To get a clearer understanding on the specific locations that are popular final destinations for riders.
