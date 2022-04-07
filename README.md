@@ -49,6 +49,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![Weekday Use By Hour](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_per_hour_weekday.png?raw=true)
 ###### Weekday Use By Hour (Figure. 3)
@@ -60,6 +61,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![Weekday Use By Hour & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender.png?raw=true)
 ###### Weekday Use By Hour & Gender (Figure. 4)
@@ -71,7 +73,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
-
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![User Type by Gender & Weekday](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Trips_gender_weekday.png?raw=true)
 ###### User Type By Gender & Weekday (Figure. 5)
@@ -83,7 +85,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
-
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![Top Starting Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_starting_locations.png?raw=true)
 ###### Top Starting Locations (Figure. 6)
@@ -95,7 +97,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
-
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![Top Ending Locations](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Top_ending_locations.png?raw=true)
 ###### Top Ending Locations (Figure. 7)
@@ -107,6 +109,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
 
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ### Summary
 In summary, morning (7am-9am) rush hour and evening (5-7pm) rush hour appears to be the time when CitiBikes are used the most. Majority of the riders are male and hold a subscription. The rides are generally within an hour long and the trip ends within the same area as its origin (midtown and west side of Manhattan). This is indicative that the bikes are used to commute to short distance destinations in areas that not only have alot of tourist attractions, but office buildings where commuters using the bikes potentially work at. These are important ridership factors and traits to consider when launching a similar bike share program in Des Moine, Iowa. Particularly if the tourist population is considerably less compared to New York City and the target population are commuters.
