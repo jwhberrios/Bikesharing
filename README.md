@@ -24,8 +24,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 
 * Top Ending Locations (figure. 7)
 
-
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ### Data Visuals
 ![Bike Users By Trip Length](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_User.png?raw=true)
