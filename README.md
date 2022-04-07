@@ -37,7 +37,7 @@ In order to understand the pattern of Citibike use in New York City, the followi
 </p>
 </details>
   
-
+<div style="page-break-after: always"><span style="display: none;">&nbsp;</span></div>
 
 ![Bike Use By Trip Length & Gender](https://github.com/jwhberrios/Bikesharing/blob/main/Resources/Checkout_gender.png?raw=true)
 ###### Bike Use By Trip Length & Gender (Figure. 2)
