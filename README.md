@@ -1,7 +1,8 @@
 # Bikesharing Project for Des Moine, Iowa
-##### Visualizing Citibike data using Tableau. 
+## Visualizing Citibike data using Tableau. 
 [Link to Dashboard](https://public.tableau.com/app/profile/jessica.berrios#!/?newProfile=&activeTab=0)
 
+<div style="page-break-after: always;"></div>
 
 ### Overview
 The purpose of this project is to analyze Citibike data use in New York City to understand rideship trends and patterns in order to determine if such mode of public transportation can be successfully be launched in Des Moine, Iowa.
